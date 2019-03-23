@@ -1,7 +1,8 @@
 body{
   color: #4e6b8a;
-  width: 1000px;
+  width: 80%;
   margin: auto;
+  line-height:2;
 }
 
 hr {
@@ -24,25 +25,25 @@ hr {
   font-size: 100px;
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #D3D0D5;  
+  color: #65BEBE;  
 }
 
 #header h2{
-  font-family: "Century Gothic";
+  font-family: 'Montserrat', sans-serif;
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #D3D0D5; 
+  color: #65BEBE; 
 }
 
 .cloud1{
   padding: 20px;
   display: flow-root;
-  margin-left: 700px;  
+  margin-left: 60%;  
 }
 
 .cloud2{
   display: flow-root;
-  margin-left: 100px;
+  margin-left: 20%;
   padding: 20px;
 }
 
@@ -53,53 +54,60 @@ hr {
 }
 
 .unhas {
-  width: 15%;
+  width: 30%;
   margin-top: 40px;
 }
 
 #hello h2{
-  font-family: "Century Gothic";
-  font-size: 50px;
-  color: #D3D0D5;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 26pt;
+  color: #65BEBE;
 }
 
 #hello {
+  margin-left: 30%;
+  margin-right: 30%;
   text-align: center;
-  font-family: "Times New Roman";
-  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  font-size: 16pt;
+}
+
+#spesial{
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 #spesial1 h2{
   text-align: center;
-  font-family: "Century Gothic";
-  font-size: 50px;
-  color: #D3D0D5;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 26pt;
+  color: #65BEBE;
 }
 
 #spesial1 h3{
-  font-family: "Century Gothic";
-  color: #D3D0D5;
-  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  color: #65BEBE;
+  font-size: 16pt;
 }
 #spesial1 p{
-  font-family: "Times New Roman";
-  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  font-size: 16pt;
   margin-bottom: 200px;
   text-align: justify;
 }
 
 #spesial2 p{
-  font-family: "Times New Roman";
-  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  font-size: 16pt;
   margin-bottom: 100px;
   text-align: justify;
   width: 750px;
 }
 
 #spesial2 h3{
-  font-family: "Century Gothic";
-  color: #D3D0D5;
-  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  color: #65BEBE;
+  font-size: 16pt;
 }
 
 .code {
@@ -113,31 +121,33 @@ hr {
   width: 200px;
   height: 200px;
   float: right;
+  margin-left: 50px;
 }
 
 #contact h2{
   text-align-last: center;
-  font-family: "Century Gothic";
+  font-family: Montserrat, sans-serif;
   font-size: 50px;
-  color: #D3D0D5;
+  color: #65BEBE;
 }
 
 #contact h3{
   text-align-last: center;
-  font-family: "Century Gothic";
-  font-size: 25px;
-  color: #D3D0D5;
+  font-family: Montserrat, serif;
+  font-size: 16pt;
+  color: #65BEBE;
 }
 
 #contact {
-  font-size: 30px;
-  font-family: "Times New Roman";
+  font-size: 16pt;
+  font-family: Merriweather, serif;
   text-align: center;
 }
 
 #contact a{
   text-decoration: none;
-  font-family: "Century Gothic";
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
   color: white;
   padding: 15px;
   background-color: #1F979C;
@@ -157,8 +167,8 @@ hr {
 }
 
 .fb-link {
-  font-family: "Calibri Light";
-  font-size: 30px;
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
   margin-left: 35px;
   margin-right: 35px;
   text-decoration: none;
@@ -171,8 +181,8 @@ hr {
 }
 
 .twitter-link {
- font-family: "Calibri Light";
- font-size: 30px;
+ font-family: Montserrat, sans-serif;
+ font-size: 20px;
  margin-left: 35px;
  margin-right: 35px;
  text-decoration: none;
@@ -185,8 +195,8 @@ hr {
 }
 
 .insta-link {
-  font-family: "Calibri Light";
-  font-size: 30px;
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
   margin-left: 35px;
   margin-right: 35px;
   text-decoration: none;
@@ -199,7 +209,7 @@ hr {
 }
 
 .copyright {
-  font-family: "Times New Roman";
+  font-family: Merriweather, sans-serif;
   color: white;
   margin-top: 50px;
 }
