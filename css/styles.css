@@ -8,9 +8,8 @@ body{
 hr {
   border: 0px;
   line-height:3px;
-  margin-left: 540px;
-  margin-right: 540px;
   border-top:7px dotted whitesmoke;
+  width: 45px;
 }
 
 #header {
