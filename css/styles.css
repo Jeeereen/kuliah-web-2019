@@ -5,9 +5,11 @@ body{
 }
 
 hr {
-  border: dotted;
-  border-color: #D3D0D5;
-  width: 20px;
+  border: 0px;
+  line-height:3px;
+  margin-left: 540px;
+  margin-right: 540px;
+  border-top:7px dotted whitesmoke;
 }
 
 #header {
