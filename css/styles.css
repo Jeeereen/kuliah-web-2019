@@ -1,6 +1,6 @@
 body{
   color: #4e6b8a;
-  width: 80%;
+  width: 90%;
   margin: auto;
   line-height:2;
 }
@@ -38,7 +38,7 @@ hr {
 .cloud1{
   padding: 20px;
   display: flow-root;
-  margin-left: 60%;  
+  margin-left: 70%;  
 }
 
 .cloud2{
